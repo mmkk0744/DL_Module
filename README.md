@@ -10,7 +10,8 @@
 # 결과물
 
 결과 이미지는 output.jpg처럼 나왔고, 전체 설계도는 아래와 같이 만들었다. 
-![Uploading output.jpg…]()
+
+![output](https://github.com/user-attachments/assets/3fd39723-3014-42c2-99ff-22bef3f98265)
 
 
 ![architecture](https://github.com/user-attachments/assets/a217168d-f9d2-4577-bc6d-e1ad7a53d02a)
