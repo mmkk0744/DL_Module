@@ -8,9 +8,8 @@
 딥러닝은 CNN을 사용하였으며, 데이터는 0~9의 숫자 이미지로 이루어진 MNIST train 6만장 test 3만장으로 사용하였다. 
 
 # 결과물
-
 결과 이미지는 output.jpg처럼 나왔고, 전체 설계도는 아래와 같이 만들었다. 
-<!-- <img src="https://github.com/user-attachments/assets/3fd39723-3014-42c2-99ff-22bef3f98265" width="100 " height="100"> -->
+![output](https://github.com/user-attachments/assets/96d31da4-c9ea-41b2-a2ce-017aaa81ad90)
 
 ![architecture](https://github.com/user-attachments/assets/a217168d-f9d2-4577-bc6d-e1ad7a53d02a)
 
