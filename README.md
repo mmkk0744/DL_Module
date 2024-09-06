@@ -19,3 +19,8 @@ Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classificati
 
 # 느낀점
 CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 무엇인지 리포트하고 싶었다.
+
+| 년도|프로젝트명| 깃허브링크 |
+| -- | --- | ----|
+|2023| 신용등급| [링크](www.naver.com)|
+|2024| 대출여부 | [링크](www.naver.com)|
